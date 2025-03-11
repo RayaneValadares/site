@@ -6,7 +6,7 @@ Ele não é mais o meu portfólio oficial, mas representa um marco importante no
 
 ## 📌 Sobre a Aplicação  
 
-Embora simples, este projeto foi feito com dedicação e serviu como um grande aprendizado. Nele, você encontrará um pouco sobre mim, minhas habilidades e um **currículo online** acessível diretamente no navegador.  
+Embora simples, este projeto foi feito com dedicação e serviu como um grande aprendizado. Nele, você encontrará um pouco sobre mim, minhas habilidades e um currículo online acessível diretamente no navegador.  
 
 ## 🔹 Funcionalidades  
 
@@ -29,6 +29,6 @@ Embora simples, este projeto foi feito com dedicação e serviu como um grande a
 
 ## 🔮 Reflexão e Melhorias Futuras  
 
-Desde a criação deste site, **evoluí bastante como desenvolvedor(a)** e já tenho um portfólio mais atualizado e profissional. No entanto, mantenho este projeto como uma lembrança do meu progresso e como um registro do meu primeiro contato com o desenvolvimento web.  
+Mantenho este projeto como uma lembrança do meu progresso e como um registro do meu primeiro contato com o desenvolvimento web.  
 
 
