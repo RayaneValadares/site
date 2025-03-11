@@ -31,6 +31,4 @@ Embora simples, este projeto foi feito com dedicação e serviu como um grande a
 
 Desde a criação deste site, **evoluí bastante como desenvolvedor(a)** e já tenho um portfólio mais atualizado e profissional. No entanto, mantenho este projeto como uma lembrança do meu progresso e como um registro do meu primeiro contato com o desenvolvimento web.  
 
----
 
-Agora, basta copiar e colar este código no seu `README.md`. Isso deve corrigir os problemas de formatação no GitHub! 🚀😃
