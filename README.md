@@ -1,42 +1,24 @@
-# 🌟 Meu Portfólio Profissional 🚀
+🌍 Meu Primeiro Portfólio
+Este site foi o meu primeiro projeto de desenvolvimento web. 🚀 Ele não é mais o meu portfólio oficial, mas representa um marco importante no meu aprendizado. Foi com ele que dei os primeiros passos na criação de sites e no entendimento de tecnologias como HTML, CSS e JavaScript.
 
-Bem-vindo(a) ao meu portfólio! Aqui você vai descobrir mais sobre mim, minhas habilidades, e acessar meu currículo de forma prática e fácil. Tudo isso com um design leve e moderno, feito com muito carinho e atenção aos detalhes! 💼✨
+📌 Sobre a Aplicação
+Embora simples, este projeto foi feito com dedicação e serviu como um grande aprendizado. Nele, você encontrará um pouco sobre mim, minhas habilidades e um currículo online acessível diretamente no navegador.
 
----
+🔹 Funcionalidades
+✔ Exibição do meu currículo diretamente no navegador.
+✔ Lista das habilidades que desenvolvi na época.
+✔ Uma seção sobre mim, contando minha trajetória inicial.
+✔ Design responsivo e organizado.
 
-## 📚 Sobre a aplicação
-Este site é uma aplicação simples, mas feita com um toque profissional. Ele traz um pouco da minha jornada, minhas habilidades técnicas e até um **currículo online** super fácil de visualizar! Se você quiser saber mais sobre mim, aqui é o lugar certo! 😄
+🛠 Tecnologias Utilizadas
+🏗 HTML5 → Estrutura do site.
+🎨 CSS3 → Estilização e responsividade.
+⚡ JavaScript (planejado para futuras implementações na época).
+📂 Como Usar?
+1️⃣ Clone este repositório.
+2️⃣ Abra o arquivo index.html no navegador.
+3️⃣ Explore o site para conhecer um pouco do meu aprendizado inicial.
 
----
+🔮 Reflexão e Melhorias Futuras
+Desde a criação deste site, evoluí bastante como desenvolvedor(a) e já tenho um portfólio mais atualizado e profissional. No entanto, mantenho este projeto como uma lembrança do meu progresso e como um registro do meu primeiro contato com o desenvolvimento web.
 
-## 🎯 Funcionalidades:
-- Acesse meu **currículo** diretamente no navegador.
-- Veja as **habilidades** que desenvolvi ao longo da minha jornada.
-- Explore a **seção sobre mim**, com detalhes sobre minha trajetória.
-- Um design clean, responsivo, e com um toque de modernidade! 🎨💼
-
----
-
-## 💻 Tecnologias Utilizadas:
-- **HTML5**: A estrutura que compõe meu portfólio.
-- **CSS3**: Para estilizar tudo com um design elegante e funcional (incluindo responsividade para dispositivos móveis).
-- **JavaScript** (Futuras implementações): Para adicionar interatividade ao site!
-
----
-
-## 📋 Como usar?
-1. Clone este repositório.
-2. Abra o arquivo `index.html` no seu navegador.
-3. Navegue pelas páginas e descubra mais sobre meu trabalho e minhas habilidades.
-4. Pronto! Você agora conhece um pouco mais de mim!
-
----
-
-## 🚀 Melhorias futuras:
-- Adicionar animações e efeitos de transição para um toque extra de sofisticação. ✨
-- Incluir projetos práticos que desenvolvi ao longo da minha jornada como programadora. 👩‍💻
-- Criar um sistema de **feedback interativo** para receber sugestões.
-
----
-
-Espero que você goste de explorar meu portfólio tanto quanto eu gostei de criá-lo! 💙
